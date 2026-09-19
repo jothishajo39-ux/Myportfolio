@@ -4,7 +4,7 @@ Personal portfolio website with a blueprint/schematic-themed design, showcasing 
 
 ## 🚀 Features
 - Blueprint/schematic-inspired visual theme
-- Working live demos of projects: QuickFix AI Triage, WanderWorld, GHOST SITES
+- Working live demos of projects: QuickFix, WanderWorld,Code-clarity
 - Two visual style versions: minimal warm-white & dark terminal-aesthetic
 - Responsive design across devices
 
